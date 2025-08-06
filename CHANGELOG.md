@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [3.2.1]
+
+### Features:
+- ``CanTp``: fix a case in ``decode_isotp`` that could lead to an infinite loop 
+
 ## [3.2.0]
 
 ### Features:
